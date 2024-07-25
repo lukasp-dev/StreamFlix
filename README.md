@@ -41,6 +41,7 @@ The dataset used in this project includes budget, genres, homepage, id, keywords
 
 ## Usage
 Open the Jupyter Notebook `Movie-Recommendation-System.ipynb` to explore the implementation. Run the cells sequentially to preprocess the data, build the model, and evaluate its performance.
+Open the `app.py` file to see the web dev demonstration.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
