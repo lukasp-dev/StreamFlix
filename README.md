@@ -18,7 +18,7 @@ For a detailed walkthrough of the project, watch the video below:
 - **Evaluation:** Assessing the performance of the recommendation system using metrics such as RMSE and MAE.
 
 ## Dataset
-The dataset used in this project includes user ratings for various movies. It is preprocessed to remove any inconsistencies and to normalize the data for better performance.
+The dataset used in this project includes budget, genres, homepage, id, keywords, original_language, original_title	overview, popularity, production_companies, production_countries, release_date, revenue, runtime, spoken_languages, status, tagline, title, vote_average, and vote_count for various movies. It is preprocessed to remove any inconsistencies and to normalize the data for better performance.
 
 ## Usage
 Open the Jupyter Notebook `Movie-Recommendation-System.ipynb` to explore the implementation. Run the cells sequentially to preprocess the data, build the model, and evaluate its performance.
