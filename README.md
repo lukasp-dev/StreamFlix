@@ -3,6 +3,25 @@
 ## Overview
 This project aims to create a robust movie recommendation system utilizing machine learning techniques. The system recommends movies to users based on their past interactions and preferences. The project includes data preprocessing, exploratory data analysis, similarity measures, and the implementation of collaborative filtering and content-based filtering methods.
 
+## Technology Used
+
+### Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Python is a high-level, interpreted programming language known for its readability and versatility.
+
+### PyCharm
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+- PyCharm is an Integrated Development Environment (IDE) used for programming in Python.
+
+### Anaconda
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+- Anaconda is a distribution of Python and R for scientific computing and data science.
+
+### Scikit-Learn
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Scikit-Learn is a free software machine learning library for the Python programming language.
+
+
 ## YouTube Video
 For a detailed walkthrough of the project, watch the video below:
 
