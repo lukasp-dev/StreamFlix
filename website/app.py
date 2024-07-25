@@ -4,7 +4,7 @@ from tmdbv3api import Movie, TMDb
 
 movie = Movie()
 tmdb = TMDb()
-tmdb.api_key = '7add2acc54acff968a49be6ae811ec42'
+tmdb.api_key = 'YOUR KEY'
 
 def get_recommendations(title):
         # get idx of the movie in the dataframe
