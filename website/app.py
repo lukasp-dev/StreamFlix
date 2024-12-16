@@ -13,7 +13,7 @@ def get_recommendations(title):
         sim_scores = list(enumerate(cosine_sim[idx]))
         # sorted in reverse order about the cosine similarity score
         sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
-        # 자기 자신을 제외한 10개의 추천 영화 슬라이싱
+        # ten movies without itself
         sim_scores = sim_scores[1:11]
         # indices of the recommended movies
         movie_indices = [i[0] for i in sim_scores]
